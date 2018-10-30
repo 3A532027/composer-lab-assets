@@ -1,0 +1,12 @@
+{
+    "name": "haungshimin/composer-lab-assets",
+    "authors": [
+        {
+            "name": "3A532027",
+            "email": "s3a532027@student.nuct.edu.tw"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
+}
